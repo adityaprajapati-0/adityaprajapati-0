@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/adc0b51f-2825-440f-9d23-94160161ee6b)
+
 <h3 align="center">🚀 Full-Stack Wizard | UI Alchemist | Code Sorcerer</h3>  <!-- TYPING ANIMATION -->  <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6AC1&center=true&vCenter=true&width=450&lines=React+Dev+%F0%9F%94%A5;Node.js+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Frontend+Stylist+%F0%9F%92%A8;Backend+Architect+%F0%9F%9B%A1%EF%B8%8F;Problem+Solver+%F0%9F%94%AB;UI+Craftsman+%F0%9F%8E%A8" alt="Typing Animation" />  
 </p>  
