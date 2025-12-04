@@ -1,7 +1,3 @@
-Here’s a more fashionable, modern, and designed GitHub README using your same top image but with upgraded sections, better structure, and a more “dev aesthetic” vibe.
-Just copy–paste this into your README.md and tweak any placeholder links/text (like LinkedIn, portfolio, etc.).
-
-<!-- TITLE with gradient -->
 ![Image](https://github.com/user-attachments/assets/adc0b51f-2825-440f-9d23-94160161ee6b)
 
 <h1 align="center">✨ Aditya here — Crafting Code & Aesthetics ✨</h1>
@@ -204,9 +200,3 @@ Just copy–paste this into your README.md and tweak any placeholder links/text 
    * |______/_/\_\  |_|    |_|  |_| |______\____/|_____/|_|     
    */
 </pre>
-
-If you want, I can next:
-
-Customize this for dark/light theme, or
-
-Make a minimal, clean version for a more professional look while keeping the same “fashionable” vibe.
