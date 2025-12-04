@@ -37,8 +37,13 @@ From dynamic frontends to complete system design — I enjoy turning ideas into 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaprajapati-0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=adityaprajapati-0&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaprajapati-0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=adityaprajapati-0&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaprajapati-0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
