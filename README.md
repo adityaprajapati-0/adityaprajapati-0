@@ -45,15 +45,14 @@
 
 <!-- GITHUB STATS -->  <h3 align="center">📊 My GitHub Stats</h3>  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaprajapati-0&theme=tokyonight&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityaprajapati-0&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=adityaprajapati-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="75%" />
 </p>
 ---
 
 <!-- TOP LANGUAGES -->  <h3 align="center">🧠 Most Used Languages</h3>  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaprajapati-0&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprajapati-0&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p> 
 ---
 
 <!-- GITHUB TROPHY -->  <p align="center">  
