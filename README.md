@@ -54,7 +54,8 @@
   <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-25%25-blue?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/Java-20%25-red?style=for-the-badge&logo=java"/>
-  
+ <img src="https://img.shields.io/badge/Python-15%25-green?style=for-the-badge&logo=python"/>
+</p>
 ---
 
 <!-- GITHUB TROPHY -->  <p align="center">  
