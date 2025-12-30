@@ -51,8 +51,11 @@
 
 <!-- TOP LANGUAGES -->  <h3 align="center">🧠 Most Used Languages</h3>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprajapati-0&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p> 
+  <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-25%25-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Java-20%25-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Python-15%25-green?style=for-the-badge&logo=python"/>
+</p>
 ---
 
 <!-- GITHUB TROPHY -->  <p align="center">  
