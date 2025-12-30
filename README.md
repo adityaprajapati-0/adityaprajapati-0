@@ -71,7 +71,6 @@
 </p>
 
 ---
----
 
 <!-- FUN GIFS with subtle pulse animation -->  <h3 align="center">🎥 Me IRL (Coding Style)</h3>  
 <p align="center">  
