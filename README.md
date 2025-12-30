@@ -58,9 +58,19 @@
 </p>
 ---
 
-<!-- GITHUB TROPHY -->  <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaprajapati-0&theme=monokai&margin-w=15&no-frame=true" />  
-</p>  
+<!-- GITHUB TROPHY -->   
+  ---
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%F0%9F%94%A5-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Committer-%E2%9A%A1-ff007f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20Wizard-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-00eaff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%20Crafter-%F0%9F%8E%A8-ff6ac1?style=for-the-badge"/>
+</p>
+
+---
 ---
 
 <!-- FUN GIFS with subtle pulse animation -->  <h3 align="center">🎥 Me IRL (Coding Style)</h3>  
